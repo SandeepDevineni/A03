@@ -1,0 +1,127 @@
+body{
+	margin:0px;
+}
+header{
+	width:80%;
+	margin:0px auto;
+	background:#0FF3D4;
+	text-align:center;
+	padding:12px 0px 12px 0px;
+	border:2px solid;
+	
+}
+
+.img_section {
+    text-align: right;
+    /* padding: 26px; */
+    display: inline-block;
+    width: 45%;
+}
+
+img.img_profile {
+    width: 300px;
+height: 300px;
+}
+
+h1{
+border-radius: 15px;
+border-style: line;
+text-shadow: 1px 1px 1px black;
+    } 
+
+h2{
+	margin:0px;
+}
+
+}
+footer{
+	width:80%;
+	margin:0px auto;
+	background:#AAF30F;
+	padding:20px;
+	border:2px dashed;
+}
+#present-section{
+	background:linen;
+	width:80%;
+	margin:0px auto;
+	border:2px dotted;
+	margin-top:12px;
+	text-align:justify;
+	
+}
+#past-section{
+	background:blue;
+	width:80%;
+	margin:0px auto;
+	border:2px dotted;
+	margin-top:12px;
+	text-align:justify;
+}
+#future-section{
+	background:yellow;
+		width:80%;
+	margin:0px auto;
+	border:2px dotted;
+	margin-top:12px;
+	text-align:justify;
+	}
+.sac{
+	display:none;
+}
+.section-header{
+	width:80%;
+	margin:0px auto;
+	text-align:center;
+	border-bottom:1px solid;
+}
+.tab{
+	background:#fdfd27;
+	width:80%;
+	margin:0px auto;
+	border:2px dotted;
+	margin-top:12px;
+	text-align:center;
+}
+.aside-header{
+	width:80%;
+	margin:0px auto;
+	text-decoration:none;
+	padding:20px 0px;
+}
+a{
+	text-decoration:none;
+	float:right;
+}
+
+.video_Section {
+    display: inline-block;
+}
+
+.profile_container {
+    display: block;
+    width: 82%;
+    margin: auto;
+}
+
+  
+	table, th, td {
+    border: 6px solid black;
+	color: red;
+	text-align: center;
+	border-style:outset;
+	}
+	li{
+		color: red;
+	}
+	.h3{
+		color:red;
+	}
+table{
+	 text-align:center;
+
+}
+
+
+	
+	
